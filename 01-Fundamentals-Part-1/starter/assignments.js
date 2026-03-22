@@ -1,7 +1,7 @@
-let myCountry = "Brazil"
-let myContinent = "South America"
-let myCountryPopulation = "213"
+let country = "Brazil"
+let continent = "South America"
+let population = "213"
 
-console.log(myCountry);
-console.log(myContinent);
-console.log(myCountryPopulation);
+console.log(country);
+console.log(continent);
+console.log(population);
