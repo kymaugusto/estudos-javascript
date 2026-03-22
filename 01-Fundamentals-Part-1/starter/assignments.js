@@ -1,8 +1,11 @@
-let country = "Brazil"
-let continent = "South America"
+const country = "Brazil"
+const continent = "South America"
 let population = 213
-let isIsland = false;
+const isIsland = false;
+// isIsland = true;
 let language;
+language = "Portuguese";
+
 
 
 console.log(country);
