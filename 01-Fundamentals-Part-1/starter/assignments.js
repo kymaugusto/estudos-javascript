@@ -1,3 +1,4 @@
+/*
 const country = "Brazil"
 const continent = "South America"
 let population = 213
@@ -36,5 +37,4 @@ const description =
     language;
 
 console.log(description);
-
-
+*/
