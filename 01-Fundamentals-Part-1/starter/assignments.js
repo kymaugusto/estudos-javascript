@@ -1,4 +1,4 @@
-/*
+
 const country = "Brazil"
 const continent = "South America"
 let population = 213
@@ -27,14 +27,5 @@ console.log(population > 6);
 
 console.log(population < 33);
 
-const description = 
-    country + 
-    " is in " + 
-    continent + 
-    ", and its " + 
-    population + 
-    " million people speak " + 
-    language;
-
+const description = `${country} is in ${continent}, and its ${population} milion people speak ${language}!`;
 console.log(description);
-*/
