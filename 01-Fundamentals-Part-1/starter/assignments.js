@@ -1,4 +1,4 @@
-
+/*
 const country = "Brazil"
 const continent = "South America"
 let population = 213
@@ -29,3 +29,11 @@ console.log(population < 33);
 
 const description = `${country} is in ${continent}, and its ${population} milion people speak ${language}!`;
 console.log(description);
+
+if(population > 33) {
+    console.log(`${country}'s population is above average`);
+}
+else {
+    console.log(`${country}'s population is ${33 - population} million below average`);
+}
+*/
